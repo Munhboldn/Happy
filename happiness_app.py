@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Load the data
-data = pd.read_csv("E:/inter python/happiness-score-analysis-app/Project 1 Munkhbold/World Happiness Report Data - Sheet1.csv")
+data = pd.read_csv("World Happiness Report Data - Sheet1.csv")
 
 # Title of the app
 st.title("🌍 Happiness Score Analysis")
